@@ -1,0 +1,141 @@
+﻿<?xml version="1.0"?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib">
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingGeneralHeaderLabel">Основные настройки</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingOtherHeaderLabel">Прочие настройки</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideosHeaderLabel">Настройки Видео</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoEnablePlayerLabel">Включить видео плеер</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoAutoplayLabel">Автостарт видео</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoShowRepeatTrailerLabel">Повторять видео</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoStartNoSoundLabel">Воспроизводить видео без звука</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoMicroDefaultLabel">Использовать микро-видео вместо полного по умолчанию</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoFallbackLabel">Использовать другие виды видео если выбранные не найдены</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoStreamSteamVideosOnDemandLabel">Транслировать трейлер из Steam по запросу, если таковой имеется</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoStreamSteamHighQualityLabel">Транслировать видео в HD качестве</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoShowControlsLabel">Показывать кнопки управления</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoControlsOpacityLabel">Прозрачность панели управления</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoControlsOpacityMouseOverLabel">Прозрачность панели управления при наведении курсора на видео</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoControlsVerticalAlignmentLabel">Вертикальное выравнивание панели управления</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoDefaultVolumeLabel">Громкость аудио по умолчанию</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosHeaderLabel">Настройки Логотипа</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosEnableLabel">Включить логотипы</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosMaxWidthLabel">Максимальная ширина логотипа</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosMaxHeightLabel">Максимальная высота логотипа</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosHorizontalAlignmentLabel">Горизонтальное выравнивание логотипа</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosVerticalAlignmentLabel">Вертикальное выравнивание логотипа</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosEnableShadowEffectLabel">Включить эффект тени</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosShadowDepthLabel">Глубина тени</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosShadowDirectionLabel">Направление тени</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosBlurRadiusLabel">Радиус размытия тени</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosEffectOpacityLabel">Прозрачность тени</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsSectionLabelVideoDownload">Настройки загрузки видео</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsSectionLabelVideoDetailsView">Настройки плеера в режиме Подробный вид</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsSectionLabelVideoGridView">Настройки плеера в режиме в виде сетки</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsSectionLabelVideoOtherView">Настройки плеера в других режимах</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsSectionLabelLogoDownload">Настройки загрузки логотипа</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsSectionLabelLogoControl">Настройки загрузчика логотипа</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsSectionLabelVideoPlayerControl">Настройки видео плеера</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsDisplayVideoPreviewLabel">Отображать предварительный просмотр видео, если видео не воспроизводится</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsUseAlternativeVideoPlayerLabel">Используйте альтернативный видеоплеер (требуется перезапуск и поддержка в настраиваемой теме)</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsSgdbKeyLabel">Ключ API SteamGridDB:</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsGetApiKeyLabel">Получить API ключ</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsDownloadVideosOnLibUpdateLabel">Скачивать видео по недавно добавленным играм при обновлении библиотеки</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsDownloadVideosMicroOnLibUpdateLabel">Скачивать микро-видео по недавно добавленным играм при обновлении библиотеки</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsDownloadLogosOnLibUpdateLabel">Скачивать логотипы по недавно добавленным играм при обновлении библиотеки</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingsDownloadLogosOnLibUpdateSelectLogosAutomaticallyLabel">Выбрать логотип для загрузки автоматически</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_VideoLabel">Видео</sys:String>
+
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_OptionHorizontalAlignmentLeft">Лево</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_OptionHorizontalAlignmentCenter">Центр</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_OptionHorizontalAlignmentRight">Право</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_OptionVerticalAlignmentTop">Верх</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_OptionVerticalAlignmentCenter">Центр</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_OptionVerticalAlignmentBottom">Низ</sys:String>
+
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogCaptionSelectLogo">Выберите логотип для загрузки {0}</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogCaptionSelectGame">Выбрать игру</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogCaptionSelectOption">Выбрать опцию</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageOverwriteLogosChoice">Перезаписать логотип игры, если он уже есть?</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageOverwriteVideosChoice">Перезаписать видео игры, если оно уже есть?</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageDownloadingVideosSteam">Загрузка видео из Steam...</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageDownloadingVideosMicroSteam">Загрузка микро-видео из Steam...</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageDownloadingLogosSteam">Загрузка логотипа из Steam...</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageDownloadingLogosSgdb">Загрузка логотипа из SteamGridDB...</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageDownloadingVideoYoutube">Загрузка видео из YouTube...</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageDownloadingVideoYoutubeError">Ошибка загрузки видео с YouTube. Пожалуйста попробуйте другое видео.</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageDownloadingGoogleLogoError">Ошибка загрузки логотипа из Google.</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageLibUpdateAutomaticDownload">Загрузка логотипов для добавленных игр...</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageLibUpdateAutomaticDownloadVideos">Загрузка видео для добавленных игр...</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageDone">Готово.</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_NotificationMessageSgdbApiKeyMissing">Extra Metadata: Ключ SteamGridDB API не настроен в настройках</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_NotificationMessageFfmpegNotConfigured">Extra Metadata: Путь к исполняемому файлу ffmpeg не был настроен в настройках расширения</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_NotificationMessageFfmpegNotFound">Extra Metadata: Исполняемый файл ffmpeg не найден в указанном расположении</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_NotificationMessageFfprobeNotConfigured">Extra Metadata: Путь к исполняемому файлу ffprobe не был настроен в настройках расширения</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_NotificationMessageFfprobeNotFound">Extra Metadata: Исполняемый файл ffprobe не найден в указанном расположении</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_NotificationMessageYoutubeDlNotConfigured">Extra Metadata: Путь к исполняемому файлу yt-dlp не был настроен в настройках расширения</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_NotificationMessageYoutubeDlNotFound">Extra Metadata: Исполняемый файл yt-dlp не найден в указанном расположении</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_NotificationMessageErrorDeletingFile">Extra Metadata: Ошибка при удалении файла {0}. Ошибка: {1}</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_NotificationMessageErrorDeletingDirectory">Extra Metadata: Ошибка при удалении каталога {0}. Ошибка: {1}</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDownloadSteamVideosSelectedGames">Загрузить видео из Steam</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDownloadSteamVideosMicroSelectedGames">Загрузить микро-видео из Steam </sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDownloadSteamLogosSelectedGames">Загрузить логотип из Steam </sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDownloadSgdbLogosSelectedGames">Загрузить логотип из SteamGridDB</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionOpenExtraMetadataDirectory">Открыть каталог Extra Metadata</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDeleteLogosSelectedGames">Удалить логотипы у этой игры</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDeleteVideosSelectedGames">Удалить видео у этой игры</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDeleteVideosMicroSelectedGames">Удалить микро-видео у этой игры</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionSetVideoFromSelectionToSelGame">Выбрать видео из файла</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDownloadVideoFromYoutube">Загрузка видео из YouTube</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogProcessSettingVideoFromSelFile">Настройка игрового видео из выбранного видеофайла...</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemSectionLogos">Логотипы</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemSectionVideos">Видео</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemSectionMicrovideos">Микро-видео</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionGenerateMicroFromVideo">Генерировать микро-видео из полного видео</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageGeneratingMicroVideosFromVideos">Генерация микро-видео из видео...</sys:String>
+    
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingLogoProcessAfterDownloadLabel">Обработка логотипов после загрузки</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingLogoProcessTrimLabel">Обрезка логотипов</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingLogoProcessTrimTooltip">Убрать прозрачную рамку вокруг изображения</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingLogoResizeDownLabel">Уменьшить размер</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingLogoResizeDownTooltip" xml:space="preserve">Уменьшить размер изображения, сохранив соотношение сторон, если оно превышает любой из настроенных размеров.
+Рекомендуется уменьшить размер, большие изображения могут замедлить работу Playnite.</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingLogoResizeDownMaxWidthLabel">Макс. ширина:</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingLogoResizeDownMaxHeightLabel">Макс. высота:</sys:String>
+
+    <sys:String x:Key="LOCExtra_Metadata_Loader_ProgressMessageUpdatingAssetsTags">Обновить теги статуса дополнительных метаданных...</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingUpdateTagAssetsTooltip">Тег будет добавлен ко всем играм в базе данных, в которых отсутствует конкретный актив</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingLogoAddTagOnLibUpdate">Обновить тег, указывающий на отсутствие в игре логотипа при обновлении библиотеки</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingVideoAddTagOnLibUpdate">Обновить тег, указывающий на отсутствие в игре видео при обновлении библиотеки</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingVideoMicroAddTagOnLibUpdate">Обновить тег, указывающий на отсутствие в игре микровидео при обновлении библиотеки</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingFfmpegPathLabel">Путь к ffmpeg:</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingFfprobePathLabel">Путь к ffprobe:</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingYoutubeDlPathLabel">Путь к yt-dlp:</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingYoutubeCookiesPathLabel">Путь до файла YouTube cookies.txt</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingYoutubeCookiesPathTooltip">Настройка позволяет скачивать видео с возрастным ограничением</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingHelpLabel">Помощь</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingBrowseLabel">Обзор...</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingDownloadFfmpegLabel">Скачать ffmpeg package</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingDownloadYoutubeDlLabel">Скачать yt-dlp</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingLoginToYoutubeLabel">Авторизация в YouTube</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingLoginToYoutubeTooltip">Авторизация позволяет просматривать видео с возрастными ограничениями в полной версии сайта</sys:String>
+    
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingDownloadSteamVideosInHdLabel">Загружать видео из Steam в HD качестве</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingSteamDlOnlyProcessPcGamesLabel">Обрабатывать только игры из Steam или игры для ПК при получении метаданных из Steam</sys:String>
+    
+    <sys:String x:Key="LOCExtra_Metadata_Loader_YoutubeWindowDownloadTitle">Выбранное видео загрузить или смотреть</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_YoutubeVideosListLabel">Список видео:</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_YoutubeSearchLabel">Поиск</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_YoutubeDownloadSelectedVideoLabel">Загрузить выбранное видео</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_YoutubeViewSelectedVideoLabel">Смотреть выбранное видео</sys:String>
+
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDownloadGoogleLogoSelectedGame">Загрузить логотип из Google</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_GoogleDownloadSelectedLogoLabel">Загрузить выбранный логотип</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_GoogleSearchOnlyTransparentLabel">Поиск только с прозрачностью</sys:String>
+
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionSetLogoFromFile">Выбрать логотип из файла</sys:String>
+
+    <sys:String x:Key="LOCExtra_Metadata_Loader_SettingEnableYoutubeMenuItems">Показывать пункты меню для просмотра видео на YouTube</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemViewYoutubeReview">Смотреть видео обзоры на YouTube</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemViewYoutubeGameplay">Смотреть видео геймплея на YouTube</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemViewYoutubeSearch">Поиск видео на YouTube</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_DialogMessageVideoNotFound">Видео не найдено</sys:String>
+</ResourceDictionary>
