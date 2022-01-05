@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib">
     <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingGeneralHeaderLabel">Основные настройки</sys:String>
     <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingOtherHeaderLabel">Прочие настройки</sys:String>
@@ -80,7 +80,7 @@
     <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDownloadSteamLogosSelectedGames">Загрузить логотип из Steam </sys:String>
     <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDownloadSgdbLogosSelectedGames">Загрузить логотип из SteamGridDB</sys:String>
     <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionOpenExtraMetadataDirectory">Открыть каталог Extra Metadata</sys:String>
-    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDeleteLogosSelectedGames">Удалить логотипы у этой игры</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDeleteLogosSelectedGames">Удалить логотип у этой игры</sys:String>
     <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDeleteVideosSelectedGames">Удалить видео у этой игры</sys:String>
     <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionDeleteVideosMicroSelectedGames">Удалить микро-видео у этой игры</sys:String>
     <sys:String x:Key="LOCExtra_Metadata_Loader_MenuItemDescriptionSetVideoFromSelectionToSelGame">Выбрать видео из файла</sys:String>
