@@ -16,7 +16,7 @@
     <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoControlsOpacityMouseOverLabel">Прозрачность панели управления при наведении курсора на видео</sys:String>
     <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoControlsVerticalAlignmentLabel">Вертикальное выравнивание панели управления</sys:String>
     <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingVideoDefaultVolumeLabel">Громкость аудио по умолчанию</sys:String>
-    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosHeaderLabel">Настройки Логотипа</sys:String>
+    <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosHeaderLabel">Настройки логотипа</sys:String>
     <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosEnableLabel">Включить логотипы</sys:String>
     <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosMaxWidthLabel">Максимальная ширина логотипа</sys:String>
     <sys:String x:Key="LOCExtra_Metadata_Loader_Browser_SettingLogosMaxHeightLabel">Максимальная высота логотипа</sys:String>
